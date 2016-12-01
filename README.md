@@ -1,2 +1,6 @@
 # Hello-world
-Just another repository
+
+Hi Humans!
+
+George here,
+i like tacos
